@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.dam2.practica2048"
+    namespace = "com.example.a2048game"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.dam2.practica2048"
+        applicationId = "com.example.a2048game"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

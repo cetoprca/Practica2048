@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Practica2048"
+rootProject.name = "2048game"
 include(":app")

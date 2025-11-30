@@ -1,4 +1,4 @@
-package com.dam2.practica2048
+package com.example.a2048game
 
 import org.junit.Test
 
